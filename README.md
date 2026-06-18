@@ -4,4 +4,4 @@ I'm a Systems Design Engineering Student @ UWaterloo, while dabbling in anything
 
 Currently seeking W26 opportunities, excited to learn and grow!
 
-You can reach me at [michelle.wang1@uwaterloo.ca](mailto:michelle.wang1@uwaterloo.ca) or [my LinkedIn](www.linkedin.com/in/michelle-wng), or take a look at my little corner on the [internet](michelle-wang.vercel.app).
+You can reach me at [michelle.wang1@uwaterloo.ca](mailto:michelle.wang1@uwaterloo.ca), connect with me on [LinkedIn](https://www.linkedin.com/in/michelle-wng), or explore my little corner of the internet at [michelle-wang.vercel.app](https://michelle-wang.vercel.app).
